@@ -1,8 +1,8 @@
 # The Best Classifier Project
 
+This project is loans dataset from, the purpose is to analyse and clean the data, then apply different classifcation with the following:
 
 
-In this project I have load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. I used the following algorithms to build the models:
 
     k-Nearest Neighbour
     Decision Tree
